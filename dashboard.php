@@ -77,7 +77,7 @@
             </ul>
           </li> -->
           <li><a href="contact.html">Contact</a></li>
-          <li><a class="get-a-quote" href="index.php">Logout</a></li>
+          <li><a class="get-a-quote" href="index.html">Logout</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -737,7 +737,7 @@
 
 
 
-<?php
+<!-- ?php
  
     $dbhost = 'localhost';
     $dbuser = 'root';
@@ -768,4 +768,4 @@
 
     mysqli_close($conn);
 
-?>
+?> -->
